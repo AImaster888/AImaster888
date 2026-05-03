@@ -6,15 +6,27 @@
 ## 📊 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default" width="100%" />
-  <table width="100%" style="width: 100%; border-collapse: collapse;">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="100%" /></td>
-      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="100%" /></td>
+      <td colspan="2" align="center" width="100%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default" width="100%" />
+      </td>
     </tr>
     <tr>
-      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="100%" /></td>
-      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="100%" /></td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="100%" />
+      </td>
     </tr>
   </table>
 </div>
