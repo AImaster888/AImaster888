@@ -16,5 +16,16 @@
 | IP 監控系統 | Google Sheets + LINE Notify 即時通報 |
 | AI 聊天介面 | Gemini + n8n 的網頁版 AI Bot |
 
+## 🌐 GitHub 個人檔案卡片
+你可以直接在 README 或網頁中嵌入這張 GitHub Profile Summary Card：
+
+`![vn7n24fzkq](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)`
+
+也可以使用這個網址在 HTML 中顯示：
+
+`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default`
+
+如果你想把它放到一個獨立的網頁，請參考 `github-profile-summary-card.html`。
+
 ## 📬 聯絡
 > 歡迎交流自動化、AI 應用相關話題
