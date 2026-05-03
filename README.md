@@ -5,20 +5,19 @@
 
 ## 📊 GitHub Profile Summary
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default" width="100%" />
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="100%" /></td>
-    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="100%" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="100%" /></td>
-    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="100%" /></td>
-  </tr>
-</table>
+  <table width="100%" style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="100%" /></td>
+      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="100%" /></td>
+    </tr>
+    <tr>
+      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="100%" /></td>
+      <td width="50%" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="100%" /></td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 目前專注
 - 用 AI + n8n 打造實用自動化工作流程
