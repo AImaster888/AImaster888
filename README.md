@@ -17,14 +17,41 @@
 | AI 聊天介面 | Gemini + n8n 的網頁版 AI Bot |
 
 ## 🌐 GitHub 個人檔案卡片
-你可以直接在 README 或網頁中嵌入這張 GitHub Profile Summary Card：
+你可以直接在 README 或網頁中嵌入這些 GitHub Profile Summary Cards：
 
+### Profile Details
 ![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default)
-
-你也可以在程式碼中這樣寫：
 
 ```md
 ![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default)
+```
+
+### Top Languages by Repo
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default)
+
+```md
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default)
+```
+
+### Top Languages by Commit
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default)
+
+```md
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default)
+```
+
+### Stats
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default)
+
+```md
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default)
+```
+
+### Commits
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=AImaster888&theme=default)
+
+```md
+![AImaster888](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=AImaster888&theme=default)
 ```
 
 如果你想把它放到一個獨立的網頁，請參考 `github-profile-summary-card.html`。這個 HTML 檔案可以直接在瀏覽器打開，或啟用 GitHub Pages 後公開為靜態網頁。
