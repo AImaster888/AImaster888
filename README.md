@@ -20,10 +20,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=AImaster888&theme=default" width="100%" />
-</p>
-
 ## 🚀 目前專注
 - 用 AI + n8n 打造實用自動化工作流程
 - 工程管理與行政流程數位化
