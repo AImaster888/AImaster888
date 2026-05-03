@@ -9,14 +9,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaster888&theme=default" width="100%" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" /></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" /></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="100%" /></td>
+    <td align="center" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="100%" /></td>
   </tr>
 </table>
 
