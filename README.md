@@ -22,14 +22,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-per-language?username=AImaster888&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AImaster888&theme=default" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AImaster888&theme=default" width="49%" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AImaster888&theme=default" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AImaster888&theme=default&utcOffset=8" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=AImaster888&theme=default" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=AImaster888&theme=default" width="100%" />
 </p>
 
 ## 📬 聯絡
